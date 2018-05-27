@@ -1,2 +1,2 @@
 # flyme
-SpringBoot + Mybatis + Spring Security + thymeleaf
+SpringBoot + Mybatis + Spring Security + Thymeleaf
